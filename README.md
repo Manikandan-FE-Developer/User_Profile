@@ -114,9 +114,9 @@ These instructions will help you set up and run the project on your local machin
 - **Body**:
     ```json
     {
-        "firstname": "John",
+        "firstname": "Will",
         "lastname": "Doe",
-        "email": "john.doe@example.com",
+        "email": "will.doe@example.com",
         "password": "newpassword123"
     }
     ```
