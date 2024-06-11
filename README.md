@@ -127,6 +127,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## My Details
 
-Name: D. Manikandan
-Email: manikandan151020@gmail.com
-Phone: 6384614956
+- Name: D. Manikandan
+- Email: manikandan151020@gmail.com
+- phone: 6384614956
