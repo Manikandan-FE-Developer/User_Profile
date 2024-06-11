@@ -124,3 +124,9 @@ These instructions will help you set up and run the project on your local machin
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## My Details
+
+Name: D. Manikandan
+Email: manikandan151020@gmail.com
+Phone: 6384614956
