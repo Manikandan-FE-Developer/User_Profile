@@ -17,7 +17,7 @@ app.use(cors());
 app.use('/api/v1/', user);
 
 app.get("/", (req, res) => {
-    res.send("<h1>E-Commerce Website...</h1>");
+    res.send("<h1>User Profile Website...</h1>");
 })
 
 app.listen(process.env.PORT, () => { 
