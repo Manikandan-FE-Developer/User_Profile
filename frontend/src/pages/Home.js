@@ -154,6 +154,5 @@ export default function Home({ authenticated, user }) {
                 <p>Please log in or register to access your profile and other features.</p>
             </div>
         </div>
-        
     );
 }
